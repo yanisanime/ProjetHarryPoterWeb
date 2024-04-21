@@ -24,3 +24,4 @@ Pour les images de base pour les remplacements, elles sont dans le dossier src/a
 
 Le fichier main.js est la base de l'application qui démare de projet. Normalement après la comande npm run dev, tout devrai se lancer corectement
 
+Je modifie ce document pour éviter que github ne suprime ce projet. J'écrit cette phrase dans ce but. Je le fait le 21/04/2024 à 9:26 (je ne modifie que le readme)
